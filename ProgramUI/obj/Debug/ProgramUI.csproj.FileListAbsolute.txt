@@ -1,0 +1,10 @@
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\obj\Debug\ProgramUI.csprojAssemblyReference.cache
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\obj\Debug\ProgramUI.csproj.CoreCompileInputs.cache
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\bin\Debug\ProgramUI.exe.config
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\bin\Debug\ProgramUI.exe
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\bin\Debug\ProgramUI.pdb
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\bin\Debug\DevTeams_Repo.dll
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\bin\Debug\DevTeams_Repo.pdb
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\obj\Debug\ProgramUI.csproj.CopyComplete
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\obj\Debug\ProgramUI.exe
+C:\Users\13179\Desktop\Elevenfiftyprojects\Dotnetprojects\DevTeamsProject\ProgramUI\obj\Debug\ProgramUI.pdb
